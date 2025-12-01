@@ -29,7 +29,7 @@ These parts are intended to be **3D printed** with a standard FDM printer.
 ## Hameg
 
 ### Coarse Knobs
-- [Coarse Hameg Knob 6.1 mm (open)](hameg/coarse_hameg_knob_6.1mm_open_n.stl)
+- [Coarse Hameg Knob 6.1 mm (open)](hameg/coarse_hameg_knob_6.1mm_open_nut.stl)
 - [Coarse Hameg Knob 6.1 mm](hameg/coarse_hameg_knob_6.1mm.stl)
 - [Coarse Hameg Knob 6 mm](hameg/coarse_hameg_knob_6mm.stl)
 
